@@ -1,6 +1,6 @@
 # YouTube Treanding Video Analytics 
 
-![YouTube-Treanding-Video-Analytics-](Dashboard.jpg)
+![YouTube-Treanding-Video-Analytics-](/Images/Dashboard.jpg)
 
 ## [**Data Source**](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
 ### [**Dashboard Downloadable File**](https://drive.google.com/drive/folders/13zdsNeHsLQxlxL8vRnSERdUlYhRwDgEa?usp=sharing)
